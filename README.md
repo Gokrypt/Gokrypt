@@ -2,7 +2,7 @@
 <h3 align="center">Ethical Hacker | SOC Analyst | Bug Bounty Hunter | Cybersecurity Enthusiast</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xsCevAab5ufj37BeGR/giphy.gif?cid=ecf05e47u9i1t1go38c5yk46kdaul2jdw2tusiqk759hkflu&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
+  <img src="https://media.giphy.com/media/0LImKjc17VA7bsdCwC/giphy.gif?cid=ecf05e47zpgekrlkgggk2twtl6ss6oas3pxtndmfjy17u4v2&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 </div>
 
 ---
