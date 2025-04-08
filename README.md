@@ -49,8 +49,8 @@
 ### 🌐 Social Links
 
 <div>
-  <a href="https://linkedin.com/in/gokul-krishna-m" target="_blank">
-    <img src="" />
+  <a href="https://www.linkedin.com/in/gokul-krishna-m-5256b82a7/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/gokrypt/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
