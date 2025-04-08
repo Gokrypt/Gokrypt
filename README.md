@@ -50,7 +50,7 @@
 
 <div>
   <a href="https://linkedin.com/in/gokul-krishna-m" target="_blank">
-    <img src="https://www.linkedin.com/in/gokul-krishna-m-5256b82a7/" />
+    <img src="www.linkedin.com/in/gokul-krishna-m-5256b82a7" />
   </a>
   <a href="https://www.instagram.com/gokrypt/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
