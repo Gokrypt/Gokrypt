@@ -28,7 +28,7 @@
 
 ### 🏆 Achievements
 
-- 🏅 **Certified**: Splunk core certified power user, Sumo Logic Fundamentals Certified
+- 🏅 **Certified**:Splunk Enterprise Certified Admin, Splunk core certified power user, Sumo Logic Fundamentals Certified
 - 💡 Developed tools like **File Integrity Monitoring Tool** for real time monitoring of files.
 - 🛠️ Chronicle Technical Training
 - 🎯 ISEA Certified Cyber Hygeine practitioner
